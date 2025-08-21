@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "528872195490",
+    "project_id": "foodtodoor-c2d77",
+    "storage_bucket": "foodtodoor-c2d77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528872195490:android:f568dfa2a9057fa3be5efb",
+        "android_client_info": {
+          "package_name": "com.example.delievery_partner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfukUayXnLXSqTA6LJB7XrNl8cYfv14vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528872195490:android:8c80f883c9a00695be5efb",
+        "android_client_info": {
+          "package_name": "com.example.farm2door"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfukUayXnLXSqTA6LJB7XrNl8cYfv14vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528872195490:android:19ed5c1cc0c30826be5efb",
+        "android_client_info": {
+          "package_name": "com.example.seller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfukUayXnLXSqTA6LJB7XrNl8cYfv14vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
